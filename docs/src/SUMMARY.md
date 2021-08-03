@@ -9,4 +9,5 @@
 - [附录A:  C++ v.s. Rust](refA-00-CPP-vs-Rust.md)
     - [C++与Rust的特征比较](refA-01-feature-comparison.md)
     - [从C++到Rust](refA-02-port-CPP-to-Rust) 
+- [参考信息](reference.md)
 
